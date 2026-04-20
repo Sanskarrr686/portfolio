@@ -2,19 +2,19 @@ window.PORTFOLIO = {
     person: {
         name: "Sanskar Patil",
         role: "Computer Engineering Student",
-        tagline: "Web Developer • Problem Solver • Fast Learner",
+        tagline: "Software Developer • Web Developer • Problem Solver • Fast Learner • C++, Full stack ",
         summary:
-            "B.Tech Computer Engineering student (CGPA 9.35) passionate about building clean, responsive web experiences and real-world solutions.",
+            "B.Tech Computer Engineering student (CGPA 8.95) passionate about building clean, responsive web experiences and real-world solutions.",
         location: "India (IST)",
         email: "patilsanskar6150@gmail.com",
         phone: "+91 9699434647",
         availability: "Open to internships & placements",
-        photo: "assets/profile.jpeg",
+        photo: "assets/profile_sanskar.jpeg",
     },
 
     files: {
-        resumePdf: "assets/ResumeAN.pdf",
-        profilePdf: "assets/Profile.pdf",
+        resumePdf: "assets/Resume_Sanskar.pdf",
+        profilePdf: "assets/Profile_Sanskar.pdf",
     },
 
     links: [
@@ -23,9 +23,9 @@ window.PORTFOLIO = {
     ],
 
     stats: [
-        { k: "9.35", l: "CGPA" },
+        { k: "8.95", l: "CGPA" },
         { k: "3+", l: "Projects" },
-        { k: "Java & Web" , l: "Focus" },
+        { k: "C++, python & Full stack ", l: "Focus" },
         { k: "DSA", l: "Core Skills" },
     ],
 
@@ -56,11 +56,11 @@ window.PORTFOLIO = {
         },
         {
             group: "Tools & Concepts",
-            items: ["Git/GitHub", "Firebase (basic)", "Intellij IDEA", "VS Code"],
+            items: ["Git/GitHub", "Firebase (basic)", "Intellij IDEA", "VS Code", "MySQL"],
         },
         {
             group: "Communication",
-            items: ["German A1 level", "Presentation skills", "Leadership"],
+            items: ["English Profeciency", "Presentation skills", "Leadership"],
         },
     ],
 
@@ -102,22 +102,17 @@ window.PORTFOLIO = {
             period: "2025 – Present",
             role: "GDSC Member",
             org: "Google Developer Student Clubs",
-            desc: "Contributed in Software & Web Development domain activities.",
+            desc: "Contributed in Software domain activities.",
         },
-        {
-            period: "2024 – 2025",
-            role: "Finance Member",
-            org: "E-Cell",
-            desc: "Supported budgeting and expense tracking for events and initiatives.",
-        },
+
     ],
 
     education: {
         degree: "B.Tech in Computer Engineering",
-        institute: "Your College / University",
-        period: "2022 – 2026",
-        score: "CGPA: 9.35",
-        details: ["Relevant: DSA, DBMS, OS, Web Development"],
+        institute: "Rajarambapu Institute of Technology, Sakharale",
+        period: "2024 – 2028",
+        score: "CGPA: 8.95",
+        details: ["Relevant: DSA, DBMS, OS, Web Development,C language, C++ basics"],
     },
 
     achievements: [
