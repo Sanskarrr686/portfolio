@@ -1,13 +1,13 @@
 window.PORTFOLIO = {
     person: {
-        name: "Aditi Nikam",
+        name: "Sanskar Patil",
         role: "Computer Engineering Student",
         tagline: "Web Developer • Problem Solver • Fast Learner",
         summary:
             "B.Tech Computer Engineering student (CGPA 9.35) passionate about building clean, responsive web experiences and real-world solutions.",
         location: "India (IST)",
-        email: "aditinikam610@gmail.com",
-        phone: "+91 9834860760",
+        email: "patilsanskar6150@gmail.com",
+        phone: "+91 9699434647",
         availability: "Open to internships & placements",
         photo: "assets/profile.jpeg",
     },
@@ -18,8 +18,8 @@ window.PORTFOLIO = {
     },
 
     links: [
-        { label: "GitHub", url: "https://github.com/aditinikam610-blip" },
-        { label: "LinkedIn", url: "https://www.linkedin.com/in/aditi-nikam-300419330/" },
+        { label: "GitHub", url: "https://github.com/Sanskarrr686" },
+        { label: "LinkedIn", url: "https://www.linkedin.com/in/sanskar-patil-5a41403a7/" },
     ],
 
     stats: [
@@ -72,7 +72,7 @@ window.PORTFOLIO = {
             stack: ["HTML", "CSS", "JavaScript", "Firebase"],
             highlights: ["Auth + listings flow", "Clean UI & UX", "Realtime-ready structure"],
             links: {
-                repo: "https://github.com/aditinikam610-blip/CampusSwap.git"
+                repo: "https://github.com/Sanskarrr686/CampusSwap.git"
             },
         },
         {
@@ -82,7 +82,7 @@ window.PORTFOLIO = {
             stack: ["JavaScript", "Leaflet.js", "APIs"],
             highlights: ["Map UX", "Layer controls", "Data visualization"],
             links: {
-                repo: "https://github.com/aditinikam610-blip/EcoTrap.git"
+                repo: "https://github.com/Sanskarrr686/EcoTrap.git"
             },
         },
         {
@@ -92,7 +92,7 @@ window.PORTFOLIO = {
             stack: ["Python", "ML", "Data Analysis"],
             highlights: ["Predictive modeling", "CO₂ analysis", "Insights-focused output"],
             links: {
-                repo: "https://github.com/aditinikam610-blip/ML.git"
+                repo: "https://github.com/Sanskarrr686/ML.git"
             },
         },
     ],
