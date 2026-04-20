@@ -210,7 +210,7 @@ function renderContact() {
     });
 
     const mailBtn = $("mailBtn");
-    mailBtn.href = `mailto:${data.person.email}?subject=${encodeURIComponent("Hello Aditi")}`;
+    mailBtn.href = `mailto:${data.person.email}?subject=${encodeURIComponent("Hello Sanskar")}`;
 }
 
 function initNav() {
@@ -336,7 +336,7 @@ function initContactActions() {
 
         const subject = `Portfolio contact from ${name}`;
         const bodyLines = [
-            `Hi Aditi,`,
+            `Hi Sanskar,`,
             "",
             message,
             "",
